@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0420b650.css",
-    "main.js": "/static/js/main.718709eb.js",
+    "main.css": "/static/css/main.ada65844.css",
+    "main.js": "/static/js/main.28071295.js",
     "static/media/Banner.webp": "/static/media/Banner.d5179325089e26355906.webp",
     "static/media/Road_Map_img.webp": "/static/media/Road_Map_img.df03b0c851fa3c96e92a.webp",
     "static/media/SuiHouses.webp": "/static/media/SuiHouses.bbccf1faade3c0dc086b.webp",
@@ -11,11 +11,11 @@
     "static/media/Deed.webp": "/static/media/Deed.d23fa690cb72cb78af6d.webp",
     "static/media/SuiCity.webp": "/static/media/SuiCity.933107256ab4de8c8960.webp",
     "index.html": "/index.html",
-    "main.0420b650.css.map": "/static/css/main.0420b650.css.map",
-    "main.718709eb.js.map": "/static/js/main.718709eb.js.map"
+    "main.ada65844.css.map": "/static/css/main.ada65844.css.map",
+    "main.28071295.js.map": "/static/js/main.28071295.js.map"
   },
   "entrypoints": [
-    "static/css/main.0420b650.css",
-    "static/js/main.718709eb.js"
+    "static/css/main.ada65844.css",
+    "static/js/main.28071295.js"
   ]
 }
