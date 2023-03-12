@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8e4ceb78.css",
-    "main.js": "/static/js/main.d29f29d7.js",
+    "main.js": "/static/js/main.ddb304ac.js",
     "static/media/Banner.webp": "/static/media/Banner.d5179325089e26355906.webp",
     "static/media/Road_Map_img.webp": "/static/media/Road_Map_img.df03b0c851fa3c96e92a.webp",
     "static/media/SuiHouses.webp": "/static/media/SuiHouses.bbccf1faade3c0dc086b.webp",
@@ -12,10 +12,10 @@
     "static/media/SuiCity.webp": "/static/media/SuiCity.933107256ab4de8c8960.webp",
     "index.html": "/index.html",
     "main.8e4ceb78.css.map": "/static/css/main.8e4ceb78.css.map",
-    "main.d29f29d7.js.map": "/static/js/main.d29f29d7.js.map"
+    "main.ddb304ac.js.map": "/static/js/main.ddb304ac.js.map"
   },
   "entrypoints": [
     "static/css/main.8e4ceb78.css",
-    "static/js/main.d29f29d7.js"
+    "static/js/main.ddb304ac.js"
   ]
 }
